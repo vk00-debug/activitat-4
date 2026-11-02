@@ -1,0 +1,41 @@
+*{
+    border: 0;
+    margin: 0;
+    border-collapse: collapse;
+}
+
+header{
+    text-align: center;
+    border-bottom:2px solid red;
+}
+
+h1, th, td{
+    color: rgb(75, 75, 75);
+}
+.col1{
+width: 300px;
+}
+img{
+    width: 50px;
+}
+.col2{
+    width: 100px;
+}
+.col3{
+    width: 100px;
+}
+.col4{
+    width: 100px;
+}
+.col5{
+    width: 100px;
+}
+.col6{
+    width: 100px;
+}
+.col7{
+    width: 100px;
+}
+.col8{
+    width: 100px;
+}
